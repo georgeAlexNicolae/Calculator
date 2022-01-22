@@ -1,0 +1,13 @@
+﻿  Engine.cpp
+E:\the calculator\2\Calculator\Calculator\Engine.cpp(32,16): warning C4101: 'e': unreferenced local variable
+  ExpressionMenu.cpp
+  main.cpp
+  Menu.cpp
+  Stack.cpp
+  Thread.cpp
+E:\the calculator\2\Calculator\Calculator\Thread.cpp(110,24): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Generating Code...
+E:\the calculator\2\Calculator\Calculator\Engine.cpp(36): warning C4715: 'Engine::calculate': not all control paths return a value
+E:\the calculator\2\Calculator\Calculator\Stack.h(55): warning C4715: 'Stack<char>::top': not all control paths return a value
+E:\the calculator\2\Calculator\Calculator\Stack.h(55): warning C4715: 'Stack<double>::top': not all control paths return a value
+  Calculator.vcxproj -> E:\the calculator\2\Calculator\x64\Debug\Calculator.exe
