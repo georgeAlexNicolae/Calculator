@@ -1,2 +1,2 @@
 # Calculator
-This is a project of mine where I createed my own calculator
+This is a project of mine where I created my own calculator
